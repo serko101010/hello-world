@@ -1,8 +1,5 @@
 Hello world!
-<<<<<<< HEAD
-Chenge
-=======
-Add line
->>>>>>> master
+Change
 END
 END2
+END3
